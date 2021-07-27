@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I’m @awskt
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning C#, ml, git, kubernetes, 3D modeling, biology, deep algebra
+- 🌱 I’m currently learning C#, ml, git, kubernetes, 3D modeling (Blender & Solidworks), biology, deep algebra
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... no way
 
